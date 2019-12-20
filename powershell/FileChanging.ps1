@@ -15,8 +15,6 @@ function Convert-MyFile($filepath, $outfile){
     $now = Get-Date -Format "yyy-MM-dd HH:mm"
     "<!-- File converted $now -->" | Out-File -FilePath $outfile
 
-    (Get-Content $filepath).Replace($Source_IP,$Target_IP) | Set-Content $filepath
-
     foreach ($line in Get-Content $filepath) 
     {
         if($line -match $regexPattern)
@@ -42,22 +40,27 @@ $sourceDir = Get-Location
 $destDir = "$sourceDir Converted"
 "Source Directory : $sourceDir"
 
+# Createing a new dir if it is not there
 if (-Not(Test-Path $destDir)){
     New-Item "$destDir\" -ItemType "directory"
 }
 else {
+    # Else remove everything in it if it.
     Remove-Item -Path $destDir -Include *.* -Recurse
 }
 
 foreach($newDir in Get-ChildItem -Path $sourceDir)
 {
-    if(-Not(Test-Path $destDir))
-    {
-        New-Item "$destDir\" -ItemType "directory"
+    $AddOn = $newDir | Split-Path -Leaf
+    if(-Not(Test-Path $destDir\$AddOn))
+    {   if(-Not($AddOn.Contains('.')))
+        {
+            New-Item "$destDir\$AddOn" -ItemType "directory"
+        }
     }
     else 
     {
-        Remove-Item -Path "$destDir\" -Include *.* -Recurse
+        Remove-Item -Path "$destDir\$AddOn" -Include *.* -Recurse
     }
 }
 
@@ -78,4 +81,4 @@ foreach ($dirPath in Get-ChildItem -Path $sourcedir){
     }
 }
 
-echo "Match count total : $global:matchCount"
+echo "Match count total : " $Matches.Count
