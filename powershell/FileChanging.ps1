@@ -1,6 +1,6 @@
 cls
-$regexPatternForlooking = "(?<url>http:.+fileName.nsf.+\/(?<itemID>[0-9a-f]{32})\?OpenDocument)"
 $regexPattern = "(?<id>[Ss]horts)"
+$regexPatternDino = "(?<Dinosaur>[Bb]aby [Dd]ino.+)"
 
 
 $regexHtmlFile = "(?<root>.+)(?<suffix>\.html)"
@@ -23,6 +23,11 @@ function Convert-MyFile($filepath, $outfile){
         {
             # "Match found $Matches" 
             $line = $line.Replace($Matches.id, "baby dinosaur")
+            $line | Out-File -FilePath $outfile -Append
+        }
+        elseif ($line -match $regexPatternDino)
+        {
+            $line = $line.replace($Matches.Dinosaur, "shorts")
             $line | Out-File -FilePath $outfile -Append
         }
         else 
