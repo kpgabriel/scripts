@@ -9,6 +9,3 @@ cik = re.search('(?<=data/).+?(?=/)',url)
 cik_number = cik.group(0)
 open('C:\Projects\Reports\Financial_Report_{0}.xlsx'.format(cik_number),'wb').write(source.content)
 # soup = BeautifulSoup(source,'lxml')
-
-# print(soup.prettify())
-# print(is_downloadable(url))
