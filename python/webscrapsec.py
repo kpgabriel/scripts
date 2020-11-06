@@ -3,7 +3,9 @@ from bs4 import BeautifulSoup
 import re
 
 # Make a request
-url = 'https://www.sec.gov/Archives/edgar/data/732717/000156276220000279/Financial_Report.xlsx'
+cik = ''
+acc_no = ''
+url = 'https://www.sec.gov/Archives/edgar/data/{}/{}/Financial_Report.xlsx'.format(cik,acc_no)
 source = requests.get(url, allow_redirects=True)
 cik = re.search('(?<=data/).+?(?=/)',url)
 cik_number = cik.group(0)
