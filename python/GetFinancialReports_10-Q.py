@@ -7,7 +7,7 @@ from datetime import date
 cik_dict = {}
 
 today = date.today()    
-fname = 'C:\Projects\Reports\\10Q CIK Filings\{}_{}_5_10QFilings'.format(today.year,today.month,today.day)
+fname = 'C:\Projects\Reports\\10Q CIK Filings\{}_{}_{}_10QFilings'.format(today.year,today.month,today.day)
 file_cik = open(fname,'r')
 for line in file_cik:
     line_search = line.split()
