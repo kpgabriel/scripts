@@ -37,7 +37,6 @@ try:
                 cik_dict[line_search[2]] = company_name
                 # print(company_name)
             
-            
             for cik_value, company  in cik_dict.items(): 
                 # Make a request
                 if cik_value == 'Form':
