@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import re
 from datetime import date
 import time
+import os
 
 
 def getFile(today):
@@ -13,7 +14,13 @@ def getFile(today):
         ret_list.insert(i,fname)
     return ret_list
 
-
+def checkPath(path):
+    # If it does not exist
+    if os.path.exists(path) == False:
+        os.makedirs(path)
+    # If it exists
+    else:
+        pass
 
 try:
     
@@ -26,17 +33,22 @@ try:
         quarterly_report = re.compile('(?<=Quarterly report).+?(?=(34 Act))')
         annual_report = re.compile('(?<=Annual report).+?(?=(34 Act))')
         acc_id = re.compile('(?<=Acc-no:).[0-9]+-[0-9]+-[0-9]+')
+        
 
         for file in files:
             form = re.search('(10-K|10-Q)',file).group(0)
             cik_dict = {}
             file_cik = open(file,'r')
+
+            for i in range(4):
+                filePath = 'C:\Projects\Reports\{}\Q{}\\{}'.format(today.year,i+1,form)
+                checkPath(filePath)
+
             for line in file_cik:
                 line_search = line.split()
                 name = ' '.join(line_search[3:])
                 company_name = re.sub('[^a-zA-Z0-9 \n\.]', '', name)
                 cik_dict[line_search[2]] = company_name
-                # print(company_name)
             
             for cik_value, company  in cik_dict.items(): 
                 # Make a request
@@ -70,13 +82,17 @@ try:
                             financial_report_url = 'https://www.sec.gov/Archives/edgar/data/{0}/{1}/Financial_Report.xlsx'.format(cik_value,truncated_acc_number)
                             source = requests.get(financial_report_url, allow_redirects=True)
                             if today.month <= 3 and today.day <= 31:
-                                open('C:\Projects\Reports\{}\Q1\\{}\Financial_Report_{}.xlsx'.format(today.year,form,company),'wb').write(source.content)    
+                                filePath = 'C:\Projects\Reports\{}\Q1\\{}\Financial_Report_{}.xlsx'.format(today.year,form,company)
+                                open(filePath,'wb').write(source.content)    
                             elif today.month <= 6 and today.day <= 30:
-                                open('C:\Projects\Reports\{}\Q2\\{}\Financial_Report_{}.xlsx'.format(today.year,form,company),'wb').write(source.content)    
+                                filePath = 'C:\Projects\Reports\{}\Q2\\{}\Financial_Report_{}.xlsx'.format(today.year,form,company)
+                                open(filePath,'wb').write(source.content)    
                             elif today.month <= 9 and today.day <= 30:
-                                open('C:\Projects\Reports\{}\Q3\\{}\Financial_Report_{}.xlsx'.format(today.year,form,company),'wb').write(source.content)    
+                                filePath = 'C:\Projects\Reports\{}\Q3\\{}\Financial_Report_{}.xlsx'.format(today.year,form,company)
+                                open(filePath,'wb').write(source.content)    
                             else:
-                                open('C:\Projects\Reports\{}\Q4\\{}\Financial_Report_{}.xlsx'.format(today.year,form,company),'wb').write(source.content) 
+                                filePath = 'C:\Projects\Reports\{}\Q4\\{}\Financial_Report_{}.xlsx'.format(today.year,form,company)
+                                open(filePath,'wb').write(source.content) 
                     time.sleep(.1)   
                             
 except Exception as e:
