@@ -4,7 +4,15 @@ from bs4 import BeautifulSoup
 from datetime import date
 import re
 import io
+import os
 
+def checkPath(path):
+    # If it does not exist
+    if os.path.exists(path) == False:
+        os.makedirs(path)
+    # If it exists
+    else:
+        pass
 
 def CreatTextFile(url):
     today = date.today()
@@ -19,7 +27,7 @@ def CreatTextFile(url):
     pattern = re.compile('(?<=Company Name).?')
     formated_text = re.sub(pattern, "\n1", pre.text)
     fname = 'C:\Projects\Reports\\{} Filings\{}_{}_{}_CompanyFilings'.format(form_name.group(0),today.year,today.month,today.day)
-
+    checkPath(fname)
     with open(fname,'w', encoding="utf-8") as f:
         f.write(formated_text)
 
