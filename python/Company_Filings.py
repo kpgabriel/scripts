@@ -26,8 +26,9 @@ def CreatTextFile(url):
     
     pattern = re.compile('(?<=Company Name).?')
     formated_text = re.sub(pattern, "\n1", pre.text)
-    fname = 'C:\Projects\Reports\\{} Filings\{}_{}_{}_CompanyFilings'.format(form_name.group(0),today.year,today.month,today.day)
-    checkPath(fname)
+    directory = 'C:\Projects\Reports\\{} Filings\\'.format(form_name.group(0))
+    fname = directory + '{}_{}_{}_CompanyFilings'.format(today.year,today.month,today.day)
+    checkPath(directory)
     with open(fname,'w', encoding="utf-8") as f:
         f.write(formated_text)
 
