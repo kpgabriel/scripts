@@ -76,12 +76,12 @@ try:
 
     # Now we try writing to word 
     document = Document()
-    document.add_heading('Document Title', 0)
+    document.add_heading('{0}'.format(other_sheets[0]), 0)
 
-    p = document.add_paragraph('A plain paragraph having some ')
-    p.add_run('bold').bold = True
-    p.add_run(' and some ')
-    p.add_run('italic.').italic = True
+    p = document.add_paragraph('{0}'.format(other_sheets_dict[other_sheets[0]]))
+    # p.add_run('bold').bold = True
+    # p.add_run(' and some ')
+    # p.add_run('italic.').italic = True
 
     document.add_heading('Heading, level 1', level=1)
     document.add_paragraph('Intense quote', style='Intense Quote')
