@@ -1,6 +1,9 @@
 import pandas as pd
 import re
 from xlsxwriter.utility import xl_rowcol_to_cell
+from docx import Document
+from docx.shared import Inches
+
 
 
 
@@ -10,14 +13,25 @@ try:
     sheets = xls.sheet_names
     newlist = list(filter(form_pattern.match, sheets))
     newlist.insert(0,sheets[0])
+    
     dict_sheets = pd.read_excel('C:\Projects\Reports\\2021\Q1\\10-K\Financial_Report_Guskin Gold Corp..xlsx',sheet_name=newlist)
-    print(newlist)
+    
+    # print(newlist)
 
     income_sheets = {}
+    other_sheets_dict = {}
     for x in range(len(newlist)):
-        # Create the dictionary of data fram objects with sheet names
+        # Create the dictionary of data frame objects with sheet names
         income_sheets['{0}'.format(newlist[x])] =  pd.DataFrame(dict_sheets[newlist[x]])
 
+    # result of all other sheets is a list, order is preserved
+    other_sheets = [i for i in sheets if i not in income_sheets] 
+    other_dict_sheets = pd.read_excel('C:\Projects\Reports\\2021\Q1\\10-K\Financial_Report_Guskin Gold Corp..xlsx', sheet_name=other_sheets)
+    for x in range(len(other_sheets)):
+        other_sheets_dict['{0}'.format(other_sheets[x])] =  pd.DataFrame(other_dict_sheets[other_sheets[x]])
+
+    # print(income_sheets.keys())
+    # print(other_sheets_dict.keys())
     # Make a writer using xlsxwriter library
     writer_orig = pd.ExcelWriter('C:/Projects/Reports/simple.xlsx', engine='xlsxwriter')
 
@@ -27,12 +41,7 @@ try:
     
     writer_orig.save()
 
-
-
     # Now we format and write a more complicated output
-
-
-
 
     writer = pd.ExcelWriter('C:/Projects/Reports/fancy.xlsx', engine='xlsxwriter')
     # Get the workbook
@@ -49,13 +58,63 @@ try:
 
         # Get the worksheet
         worksheet = writer.sheets[sheet_name]
+
+
+        if sheet_name == 'Document And Entity Information':
+            cell = xl_rowcol_to_cell(7, 1)   # B8
+            
         # Change the cell columns in all sheets
         
         worksheet.set_column('A:A', 40)
         worksheet.set_column('B:B', 25)
         worksheet.set_column('C:C', 25)
+        worksheet.set_column('D:D', 15)
+        worksheet.set_column('E:E', 15)
         
+
     writer.save()
+
+    # Now we try writing to word 
+    document = Document()
+    document.add_heading('Document Title', 0)
+
+    p = document.add_paragraph('A plain paragraph having some ')
+    p.add_run('bold').bold = True
+    p.add_run(' and some ')
+    p.add_run('italic.').italic = True
+
+    document.add_heading('Heading, level 1', level=1)
+    document.add_paragraph('Intense quote', style='Intense Quote')
+
+    document.add_paragraph(
+        'first item in unordered list', style='List Bullet'
+    )
+    document.add_paragraph(
+        'first item in ordered list', style='List Number'
+    )
+
+    # document.add_picture('monty-truth.png', width=Inches(1.25))
+
+    records = (
+        (3, '101', 'Spam'),
+        (7, '422', 'Eggs'),
+        (4, '631', 'Spam, spam, eggs, and spam')
+    )
+
+    table = document.add_table(rows=1, cols=3)
+    hdr_cells = table.rows[0].cells
+    hdr_cells[0].text = 'Qty'
+    hdr_cells[1].text = 'Id'
+    hdr_cells[2].text = 'Desc'
+    for qty, id, desc in records:
+        row_cells = table.add_row().cells
+        row_cells[0].text = str(qty)
+        row_cells[1].text = id
+        row_cells[2].text = desc
+
+    document.add_page_break()
+
+    document.save('C:/Projects/Reports/demo.docx')
 
 except Exception as e:
     print(e)
