@@ -8,7 +8,9 @@ from docx.shared import Inches
 
 
 try:
+    # Getting file
     xls = pd.ExcelFile('C:\Projects\Reports\\2021\Q1\\10-K\Financial_Report_Guskin Gold Corp..xlsx')
+    # Regex pattern to look sheets
     form_pattern = re.compile('(Consolidated|Statements)')
     sheets = xls.sheet_names
     newlist = list(filter(form_pattern.match, sheets))
@@ -77,7 +79,7 @@ try:
     # Now we try writing to word 
     document = Document()
     for i in range(len(other_sheets)): 
-        document.add_heading('{0}'.format(other_sheets[i]), 0)
+        document.add_heading('{0}'.format(other_sheets[i]), level=1)
 
         p = document.add_paragraph('{0}'.format(other_sheets_dict[other_sheets[i]]))
     # p.add_run('bold').bold = True
