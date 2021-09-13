@@ -3,7 +3,7 @@ from pdf2image import convert_from_path
  
  
 # Store Pdf with convert_from_path function
-images = convert_from_path('C:\\Users\\kpgab\\Downloads\\ErikCurrentResume.pdf')
+images = convert_from_path('C:\\Users\\kpgab\\Downloads\\Microsoft_Certified_Professional_Certificate_0.pdf')
  
 for i in range(len(images)):
    
