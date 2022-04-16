@@ -1,0 +1,2246 @@
+Error: cannot identify image file 'G:\\SanDisk Flashback.pdf' for object G:\SanDisk Flashback.pdf
+Error: cannot identify image file 'G:\\SanDiskSecureAccessV3.01_win.exe' for object G:\SanDiskSecureAccessV3.01_win.exe
+Error: cannot identify image file 'G:\\SanDiskSecureAccess\\DownloadSanDiskSecureAccess_Mac.pdf' for object G:\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
+Error: cannot identify image file 'G:\\SanDiskSecureAccess\\SanDisk_SecureAccess_QSG.pdf' for object G:\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
+Error: Unsupported BMP pixel depth (33359) for object G:\System Volume Information\WPSettings.dat
+Error: cannot identify image file 'G:\\System Volume Information\\IndexerVolumeGuid' for object G:\System Volume Information\IndexerVolumeGuid
+Error: cannot identify image file 'G:\\BackupPictures\\.picasa.ini' for object G:\BackupPictures\.picasa.ini
+Error: 'DateTime' for object G:\BackupPictures\14842_minecraft.jpg
+Error: 'DateTime' for object G:\BackupPictures\199374_311086198998943_1709756882_n.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\1interiordesign101.pdf' for object G:\BackupPictures\1interiordesign101.pdf
+Error: 'DateTime' for object G:\BackupPictures\2 valley drive.png
+Error: 'DateTime' for object G:\BackupPictures\2013k w boys.jpg
+Error: 'DateTime' for object G:\BackupPictures\205387_470050173019906_1351294089_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\208977_416705425046451_2017124142_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\209851_310779152362981_671171050_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\218846_377631418978285_1158027221_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\219257_311081505666079_1129781625_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\229357_311139838993579_1669007760_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\251781_304356296338600_1963340088_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\255394_470014323023491_1554544785_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\258064_310784699029093_1471918053_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\264685_379353298804801_1429653528_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\265425_298748860232677_1741928646_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\283721_10151092754890240_1823304817_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\289613_168987946512147_5308079_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\28998_486885544707455_507369088_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\293[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\29597229_1555258604571924_8464397159898004470_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\297948_111913748916190_1315470355_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\298022_172275432850065_12676690_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\2r_08-21-12_email_15[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\2r_08-21-12_email_19[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\3-24-18.png
+Error: 'DateTime' for object G:\BackupPictures\301856_571339069547188_738243262_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\305456_111928642248034_679060082_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\306926_168985623179046_7884408_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\307542_113834925390739_688699446_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\318071_582985678394899_643773288_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\318712_473184546039802_253868972_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\32414_340119849428911_410642902_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\330870_172784612799147_1661556255_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\331035_304755452965351_101609000_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\36500_360563850717844_971445234_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\375693_472565192768404_707052269_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\376676_515746291785505_1784578788_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\377182_377630572311703_922236521_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\377740_471692666188990_1831669379_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\382313_380863478687881_1914597442_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\394776_355254594582103_1264921084_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\396882_427184927331834_1454474020_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\398960_375720259136054_920285853_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\399568_490047384391271_1790447329_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\3y_02-25-13_email_4558_insider_02[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\404639_525458784147589_972323143_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\406498_310028979104665_1726659591_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\460517_306121479495415_1587551619_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\473568_346240172117477_728476931_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\480891_376365825804313_392184497_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\48116_488165901246086_1703585369_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\482018_471982406160016_1767681820_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\482712_486479438081399_2053834648_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\484011_500004513359683_438050115_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\487148_377669912340571_844518966_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\52236_311960275578202_1892100065_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\532278_285400554900841_1917353811_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\539563_484863838242959_1548401892_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\542850_10151324985817304_124636147_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\546327_577382498955217_1204396654_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\553159_424793324237661_1756843935_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\557245_426600884056905_181090338_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\558579_296712420436321_1197202477_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\559872_10151321422647304_1189630670_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\560951_471168586241398_1409653908_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\561198_294343883973706_30881758_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\564112_473184346039822_469704431_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\575929_297772273630867_1649947175_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\580527_296722890402472_758398144_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\580571_491762210886455_321164874_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\582657_297318000375763_1297697627_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\602731_361591333948429_1540023177_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\620600_294734447300785_229140309_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\620812_307255159382047_1169696108_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\67912_601403136553153_1018952754_n (1).jpg
+Error: 'DateTime' for object G:\BackupPictures\680355_386567258084701_1326591836_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\68781_10151191902314653_2124870322_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\739978_10151265443138074_135649474_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\820796_476820289047314_1181918499_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\830427_376371455803750_29481548_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\841157_361586880615541_782797852_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\891934_10151362154287304_147515072_o.jpg
+Error: 'DateTime' for object G:\BackupPictures\8Grade.jpg
+Error: 'DateTime' for object G:\BackupPictures\black-swan.jpg
+Error: 'DateTime' for object G:\BackupPictures\clean.gif
+Error: 'DateTime' for object G:\BackupPictures\download.jpeg
+Error: 'DateTime' for object G:\BackupPictures\download.png
+Error: cannot identify image file 'G:\\BackupPictures\\e502w_demo.zip' for object G:\BackupPictures\e502w_demo.zip
+Error: cannot identify image file 'G:\\BackupPictures\\Eriks Chris1208.gwp' for object G:\BackupPictures\Eriks Chris1208.gwp
+Error: cannot identify image file 'G:\\BackupPictures\\EX-Z1000.bin' for object G:\BackupPictures\EX-Z1000.bin
+Error: cannot identify image file 'G:\\BackupPictures\\flyer2.pdf' for object G:\BackupPictures\flyer2.pdf
+Error: cannot identify image file 'G:\\BackupPictures\\FREE Kodak Offer.URL' for object G:\BackupPictures\FREE Kodak Offer.URL
+Error: cannot identify image file 'G:\\BackupPictures\\FUTMupdated.pdf' for object G:\BackupPictures\FUTMupdated.pdf
+Error: 'DateTime' for object G:\BackupPictures\Geo1208a.psd
+Error: cannot identify image file 'G:\\BackupPictures\\Georgie cello.zip' for object G:\BackupPictures\Georgie cello.zip
+Error: cannot identify image file 'G:\\BackupPictures\\Georgie piano.zip' for object G:\BackupPictures\Georgie piano.zip
+Error: cannot identify image file 'G:\\BackupPictures\\Georgie1208 card.gwp' for object G:\BackupPictures\Georgie1208 card.gwp
+Error: 'DateTime' for object G:\BackupPictures\GranMa0001.jpg
+Error: 'DateTime' for object G:\BackupPictures\GranPa0001.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\HP Installation Error - XP.hta' for object G:\BackupPictures\HP Installation Error - XP.hta
+Error: 'DateTime' for object G:\BackupPictures\Image 8.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\I_SCORED_100_(_the_pictures_are_beautiful_)_(822_KB)' for object G:\BackupPictures\I_SCORED_100_(_the_pictures_are_beautiful_)_(822_KB)
+Error: 'DateTime' for object G:\BackupPictures\k w.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\Kyle 1208 card.gwp' for object G:\BackupPictures\Kyle 1208 card.gwp
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search.html' for object G:\BackupPictures\lamp cartoon - Google Search.html
+Error: 'DateTime' for object G:\BackupPictures\lifeguard_test.png
+Error: 'DateTime' for object G:\BackupPictures\mother and child.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\New Wave Sound.wav' for object G:\BackupPictures\New Wave Sound.wav
+Error: 'DateTime' for object G:\BackupPictures\Picture3.png
+Error: 'DateTime' for object G:\BackupPictures\Picture4.png
+Error: 'DateTime' for object G:\BackupPictures\Picture5.png
+Error: 'DateTime' for object G:\BackupPictures\Picture9.png
+Error: cannot identify image file 'G:\\BackupPictures\\Pictures - Shortcut.lnk' for object G:\BackupPictures\Pictures - Shortcut.lnk
+Error: cannot identify image file 'G:\\BackupPictures\\Sent Items.dbx' for object G:\BackupPictures\Sent Items.dbx
+Error: 'DateTime' for object G:\BackupPictures\smiley-face-clip-art-niXoRMbiB (1).png
+Error: 'DateTime' for object G:\BackupPictures\Stella's%20White%20Owl.jpg
+Error: 'DateTime' for object G:\BackupPictures\still-life-violin.jpg
+Error: 'DateTime' for object G:\BackupPictures\Swans Heart-740449.jpeg
+Error: 'DateTime' for object G:\BackupPictures\traditional-lrg3.png
+Error: 'DateTime' for object G:\BackupPictures\Tuscan-Poppies--by--Parrocel--.jpg
+Error: 'DateTime' for object G:\BackupPictures\untitled.png
+Error: 'DateTime' for object G:\BackupPictures\vd.jpg
+Error: 'DateTime' for object G:\BackupPictures\vd0.jpg
+Error: 'DateTime' for object G:\BackupPictures\vd1.png
+Error: 'DateTime' for object G:\BackupPictures\vd10.png
+Error: 'DateTime' for object G:\BackupPictures\vd11.png
+Error: 'DateTime' for object G:\BackupPictures\vd12.png
+Error: 'DateTime' for object G:\BackupPictures\vd13.png
+Error: 'DateTime' for object G:\BackupPictures\vd14.png
+Error: 'DateTime' for object G:\BackupPictures\vd15.png
+Error: 'DateTime' for object G:\BackupPictures\vd16.png
+Error: 'DateTime' for object G:\BackupPictures\vd2.png
+Error: 'DateTime' for object G:\BackupPictures\vd3.png
+Error: 'DateTime' for object G:\BackupPictures\vd4.png
+Error: 'DateTime' for object G:\BackupPictures\vd5.png
+Error: 'DateTime' for object G:\BackupPictures\vd6.png
+Error: 'DateTime' for object G:\BackupPictures\vd7.png
+Error: 'DateTime' for object G:\BackupPictures\vd8.png
+Error: 'DateTime' for object G:\BackupPictures\vd9.png
+Error: 'DateTime' for object G:\BackupPictures\vda.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\desktop.ini' for object G:\BackupPictures\desktop.ini
+Error: 'DateTime' for object G:\BackupPictures\.picasaoriginals\rock lobster fam guy.jpg
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\blackgrand.gif
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\browngrand.gif
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0600.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0605.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0617.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0619.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0641.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0645.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0646.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0681.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0683.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0693.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0710.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0719.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0720.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0721.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0722.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0724.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0725.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0729.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0731.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0741.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0745.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0751.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0754.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0755.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0761.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0765.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0776.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0794.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0801.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0803.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0809.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0818.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0832.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0833.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0839.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0840.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0841.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0851.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0852.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0853.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0861.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0862.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0872.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0884.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0886.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\CIMG0887.JPG
+Error: 'DateTime' for object G:\BackupPictures\10 a cc muir\image0.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\10 a cc muir\\Thumbs.db' for object G:\BackupPictures\10 a cc muir\Thumbs.db
+Error: cannot identify image file 'G:\\BackupPictures\\10 seattle\\Thumbs.db' for object G:\BackupPictures\10 seattle\Thumbs.db
+Error: cannot identify image file 'G:\\BackupPictures\\100CASIO\\Thumbs.db' for object G:\BackupPictures\100CASIO\Thumbs.db
+Error: 'DateTime' for object G:\BackupPictures\2007-07-18 001\SCAN0008.JPG
+Error: 'DateTime' for object G:\BackupPictures\2007-07-18 001\SCAN0010 (2).jpg
+Error: 'DateTime' for object G:\BackupPictures\2007-07-18 001\SCAN0010.JPG
+Error: 'DateTime' for object G:\BackupPictures\2011-11-30\ICON0-1.PNG
+Error: 'DateTime' for object G:\BackupPictures\2011-11-30\ICON0-2.PNG
+Error: 'DateTime' for object G:\BackupPictures\2011-11-30\ICON0-3.PNG
+Error: 'DateTime' for object G:\BackupPictures\2011-11-30\ICON0-4.PNG
+Error: 'DateTime' for object G:\BackupPictures\2011-11-30\ICON0-5.PNG
+Error: 'DateTime' for object G:\BackupPictures\2011-11-30\ICON0.PNG
+Error: 'DateTime' for object G:\BackupPictures\2011-11-30\PIC1-1.PNG
+Error: 'DateTime' for object G:\BackupPictures\2011-11-30\PIC1.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\003.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\004.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\005.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\006.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\007.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\010.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\011.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\012.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\013.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\014.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\015.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\016.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\017.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\018.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\019.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\020.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\021.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\022.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\023.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\024.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\025.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\026.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\027.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\028.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\029.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\030.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\031.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\032.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\033.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\034.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\035.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\036.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\037.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\038.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\039.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\040.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\041.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\042.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\043.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\044.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\045.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\046.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\047.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\048.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\049.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\050.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\051.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\052.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\053.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10\054.PNG
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10 Grandmas Childhood\Grandmas Childhood 001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10 Grandmas Childhood\Grandmas Childhood 002.jpg
+Error: 'DateTime' for object G:\BackupPictures\2012-03-10 Grandmas Childhood\Grandmas Childhood 003.jpg
+Error: 'DateTime' for object G:\BackupPictures\2012-04-01 house plans\house plans 001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2012-04-01 house plans\house plans 002.jpg
+Error: 'DateTime' for object G:\BackupPictures\2012-08-15 recipe\recipe 001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2012-08-15 recipe\recipe 002.jpg
+Error: 'DateTime' for object G:\BackupPictures\2012-08-15 recipe\recipe 003.jpg
+Error: 'DateTime' for object G:\BackupPictures\2012-10-19\001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2013-10-05 D&G adj1a\001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2013-10-05 D&G adj1a\002adj.jpg
+Error: 'DateTime' for object G:\BackupPictures\2013-10-05 D&G adj1a\2 001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2013-10-05 D&G adj1a\3 001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2013-10-05 D&G adj1a\5 001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2013-10-05 D&G adj1a\6 001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2013-10-05 D&G adj1a\D&G adj1a 001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2014-01-17\001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2014-01-17\Top.bmp
+Error: 'DateTime' for object G:\BackupPictures\2014-03-06\Top.bmp
+Error: 'DateTime' for object G:\BackupPictures\2014-03-17\Top.bmp
+Error: 'DateTime' for object G:\BackupPictures\2014-04-23\Top.bmp
+Error: 'DateTime' for object G:\BackupPictures\2015-07-13 Kyle Diabetes\Kyle Diabetes 001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2015-09-29\001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2015-10-08\001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2015-10-08\002.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAgJ9utjhUHQnAIOz6iy4Ak3zXYNyGh4P3yDni0qlyub1.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAgjP4mbIc7goCvY4x7Zl31chH3TW3V3OOINPqcTEdcv4.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAgm9JdFFGsJCYLY4CHCITUdn5jh1Ra6yZKQPbRQ-UzS7.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAhaWUrIlOywmtfp8GPc-rg-DsxY-bG0EwvmSzVzwTWFq.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAhEvcvhPrMq-L9r4BwxV0I1ynULOav_aeZq_TIN3JUuy.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAhfNlHaOJAy4fx1LEX0-YLPNol_g2PhpUoJEL4UeQVV-.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAhH8tu7zJ7na-fdgu2fQCx8Q18EbFDIzMZifkxeqcmXT.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAhlo1DQnFQg2XvyseBevku1DhP_o9ymaLIF1nBB7tq5k.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAhvn-z2YpfYZyrz_x15c7xCLbjjqWjh1dsMjrZ3LJ9TT.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAh_oF8tmwncvX31XAHf11kR7kE3qSnJXs0-OrpziYWr2.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAiiI_SDDKfjNMq5qweEwfHFdvbuWbihrfm6AP6oBfK4x.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAiYBH0TbY4NytA_4gRdFe-8m3Um5zvDNEMgSHCrOhu3M.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAjE0cf2haiz4GF5qTtGU_mx6CvFeiOftUS9u1RRgfSkY.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAjnZW6kV3J8tIJCawBFKIQkSYtyuu_whmwB4MtGWNi5N.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAjVXbZSedp7vLFIykXBaDLqG8N99fip09qLlIOGEYWl3.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAjydCpZWKqqV7hvEnapsfeakOcBbyB00PPlsNGmuj_IE.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAjyY55WKm0ak5WzcrVb-O-5t2V52vSQwLFXsFpOawxXN.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAk0z8QEj5_dNmD0c98xDdo80fQUiHE6zcAR-kXZJtqkp.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAk8k5S88RcWeHKRLGp8NzQvtNNKYqnusSLl4mtD4stLS.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAknAGNfrHcbLdJPRQUZFaOoF26foiSnEiIaW18YmY24P.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAl9d6mosupdXzJQiiaq8ugdZdWG5nTxnm2_einAhqbp1.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAlHHuExg2QveH-qtSvYlgPtwkYGVvW_jKGa6tbP6vFGW.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAljsAFqk2xC0ZjZ4QdDck6GT_9WsRQppVtT8817LuYhM.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAljWB72MJNgPmz1OWjcMf3ORicWdCTE2KSXZEHQec5VN.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAlOBHwB61KU5teaxdSdCVz3GWiYTHp0OMzP6czKQ6F6f.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAlYtiRCrFO7ml9ML1NWq2xVOuIODz51tf5pDZYKkoNUK.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAmBWqcj-XHGBkMUr2KpFjU5Ie-oa43_ndJlWbnAJ9XXA.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAmM9AFEOsaReaYi6G_B_SFx6mMSApNDG-zE5sjeNe3NM.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAmNmja0IA8lWU2LpUy5EhPWPIGy0e_If8GwE3Ng58NhR.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAmnYrmV4_gIPq-CU7APTcJ4Iz11rcbWsgkSIZWKAPRh8.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAndT3n8f9GFBevZY8pPYH_aARJRTyMBwuUWFfSyMlgzo.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAnqWmFBbpPGpAsY4Sz3KBkCdGEQprc81sdl1h6nqeB6U.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAnzy8wxtVsVHZA4b0JJ0VQL0-cMkT2k7tQ6EXUxano_a.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAo-SUF9SsOm8B9gKoYj_k27KTUz-BxaPtLe17A3wzRZ_.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAo0AkXY08GR9HrWfSp6FktilCKZf3JficVeqvauBaq8E.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAoEW6qcPOYLAGGOhIK3RvKH79o0zJsJvAqAAw2_GgixX.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAoN4S2FXMAErdklE1UdYEe4-UnWOXWYgl5zCAR7Khp3C.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAowsLalU2WPV7u9hVpE6l4uj4CDBmu0x5fuJLavvvm6p.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAp-z5fJO1RWKDIn8PSO-sLaQrVWxO9rdnCNXTs0EPQ90.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altApDznAdKxHpEdrd-1bZex6ZwCrZsW644b4ftSNVWAVbA.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altApgrt1W7hcmNmOgS_SszMS_VjesdWzfeGtgKE8mGXGVl.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altApKwVCwWG0dbOT65lytaJ1seze53GXBI25iF4V0qzwth.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altApQfETdBF50IZNIN2X0waVdBdKRHeh9EQFHlXpncdXsR.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAqMXsOCwz9rGUWuwr1RSc--RS3QbRf9aW4KtRfZMcNuz.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAqnEnnYfs3rzHoma2smlChRq3yUfq0XyQR9F4pM1UdNH.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAquABpkNLo-at-j-v4f7MbORdcbbqNtFfKQQu09fXLb-.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altArFwcrapryUIxYw_qZJLF5Ar3nVhyRVsR_uPQ9o4b3np.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altArvbJ4uLsIBl2IYtrwfLTwI9N6rIShXJNfcWiubpSu2A.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altArxUvSFvi-uRQdWIKKpDHxfLemCsIgdITZZytVbPuZn_.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAs2KczqBApSJPxv9-zr75fIihmp6JEGJAkghOs8fnTiI.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAsFkQrIhfddtZcj063QCKx9y-SwHmFFwyex99Ozshoy3.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAsUxjVTzhoKaobp4zPRa_n12tYGw56eE1t6YAQWzQZp-.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAsVtM1wjm8wAnfKm0dH1ggRo3_za7Njgc9Umx3ocTn0v.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAswYIbKFx1MqsgqyMIL4Fg-nSd1Jqn9Q0g6Hrc7Uu8NQ.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAtsbevNfN-xW3jQBKC7Wce_E6fsfeKSK7EPIfGMkG2xI.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAuhyLpTkIILe9u2lBZfHxl0GU2CtIr1ge4lXDPunJjLa.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAuLqfQNtSBjgx0eSLKLLob4ytsSojI5nzxPSNxzYNVby.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAv9rzOAZz194S2LE9zbEQV7YOPhZs4vvZPeCy_4_CSFA.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAvGEuC8jjxfsV5nLYmC4ccT2VbQm9z3X-jfs2S_DvgQI.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAvGl6UwZj16tQBxyl1ZVaoJ5Nkj27-toC0moPReN2F5T.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAvP5ljWKUJyrJdmwgrSmaIPhtk4NglDqg5yBJmrDxJt8.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAvWllvyP2M-pVzdzlwuMTV77wrLE6DrG0y-556llmhpK.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\altAvXzySAvEbjCrToh-wlududIcMwuPNKB9XGSnSJJuPSq.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\sample_photo_01.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\sample_photo_02.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\sample_photo_03.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\sample_photo_04.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\sample_photo_06.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\sample_photo_07.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\sample_photo_08.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\Sent Items.dbx' for object G:\BackupPictures\2016-06-11\Sent Items.dbx
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__00C7.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__0D0C.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__3B3A.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__3F71.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__3FDA.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__4C2C.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__4DAA.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__58A8.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__683F.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__70FB.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__793E.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__8019.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__89E0.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__8AB9.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__8EFB.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__ABC4.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__B42A.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__B826.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__B892.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__BCA0.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__D430.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__DD1E.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__DFA2.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__EAD5.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\V__EB40.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000003.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000004.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000005.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000007.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000008.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000011.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000012.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000013.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000014.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000015.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000016.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000017.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000018.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000019.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000020.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000021.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000022.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000023.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000024.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000025.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000026.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000027.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000028.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000029.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000030.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000031.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000032.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000034.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000035.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000036.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000037.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000038.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000039.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000040.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000043.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000044.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000047.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000048.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000049.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000051.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000052.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000064.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000077.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000085.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000095.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000096.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000097.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000098.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000099.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000100.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000102.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000103.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000104.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000109.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000111.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000112.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000113.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000118.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000119.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000120.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000121.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000122.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000123.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000124.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000125.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000126.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000127.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000128.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000133.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000134.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000135.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000136.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000137.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000140.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000141.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000142.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000143.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000144.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000146.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000147.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000148.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000149.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000150.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000151.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000152.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000153.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000154.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000155.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000156.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000157.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000158.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000159.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000161.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000162.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000163.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000164.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000165.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000166.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000167.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000168.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000169.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000170.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000171.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000172.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000173.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000174.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000176.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000177.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000178.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000179.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000180.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000181.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000182.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000183.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000184.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000185.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000186.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000187.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000188.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000189.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000190.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000191.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000192.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000193.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000194.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000195.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000204.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000205.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000206.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000207.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000208.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000209.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000210.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000211.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000212.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000213.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000214.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000215.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000216.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000217.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000219.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000224.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000231.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000233.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000234.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000235.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000236.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000237.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000238.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000239.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000242.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000243.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000244.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000247.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000248.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000249.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000250.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000251.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000252.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000253.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000254.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000255.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000256.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000257.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000258.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000259.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000260.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000261.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000262.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000263.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000264.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000265.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000266.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000267.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000268.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000269.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000270.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000271.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000272.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000273.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000274.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000275.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000276.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000277.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000278.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000279.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000281.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000282.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000283.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000284.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000285.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000286.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000287.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000288.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000289.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000290.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000291.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000292.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000293.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000294.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000295.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000296.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000297.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000300.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000301.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000302.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000303.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000309.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000310.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000311.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000312.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000313.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000314.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000315.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000317.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000318.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000319.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000320.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000321.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000322.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000323.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000324.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000325.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000326.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000327.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000328.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000329.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000330.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000332.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000333.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000334.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000335.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000336.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000337.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000338.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000339.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000340.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000341.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000346.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000347.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000348.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000349.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000350.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000355.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000356.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000357.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000358.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000359.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000361.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000362.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000363.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000368.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000369.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000370.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000371.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000372.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000373.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000374.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000375.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000376.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000377.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000388.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000389.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000390.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000391.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000392.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000393.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000394.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000412.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000413.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000414.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000415.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000416.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000417.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000418.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000419.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000420.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000421.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000422.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000423.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000424.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000425.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000426.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000428.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000429.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000430.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000431.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000432.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000433.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000434.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000435.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000436.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000437.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000438.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000439.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000441.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000442.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000444.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000445.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000446.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000447.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000448.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000449.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000450.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000451.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000452.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000453.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000454.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000455.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000456.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000458.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000470.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000471.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000472.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000473.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000474.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000475.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000476.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000477.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000478.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000479.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000480.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000481.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000482.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000484.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000485.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000486.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000487.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000488.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000489.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000490.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000491.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000492.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000493.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000497.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000498.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000499.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000500.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000501.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000502.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000503.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000504.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000505.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000506.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000507.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000508.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000509.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000510.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000511.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000512.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000513.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000514.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000515.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000516.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000517.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000518.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000519.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000520.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000522.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000523.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000524.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000525.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000526.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000527.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000528.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000529.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000530.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000531.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000532.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000533.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000534.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000535.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000536.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000537.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000538.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000539.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000540.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000541.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000542.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000543.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000544.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000545.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000546.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000547.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000548.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000549.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000550.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000551.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000552.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000553.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000554.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000555.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000556.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000557.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000558.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000559.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000560.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000561.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000562.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000563.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000564.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000565.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000566.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000567.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000568.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000569.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000570.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000573.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000574.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000575.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000576.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000577.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000578.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000579.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000580.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000583.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000584.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000585.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000586.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000587.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000588.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000589.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000590.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000591.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000592.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000596.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000597.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000598.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000600.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000601.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000602.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000603.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000604.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000606.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000607.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000608.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000610.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000611.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000613.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000614.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000615.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000616.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000617.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000618.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000619.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000620.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000621.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000622.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000623.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000624.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000625.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000626.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000627.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000628.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000629.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000630.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000637.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000638.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000639.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000640.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000641.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000642.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000643.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000647.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000648.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000649.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000650.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000651.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000652.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000654.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000655.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000657.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000658.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000659.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000660.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000661.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000662.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000663.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000664.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000665.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000666.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000667.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000668.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000669.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000671.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000672.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000674.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000675.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000677.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000678.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000679.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000681.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000682.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000683.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000684.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000685.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000686.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000687.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000688.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000689.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000690.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000691.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000692.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000693.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000694.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000695.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000696.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000697.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000698.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000699.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000701.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000702.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000703.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000704.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000705.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000706.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000707.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000708.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000709.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000710.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000711.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000712.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000713.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000714.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000716.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000717.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000718.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000719.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000720.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000721.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000722.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000723.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000724.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000725.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000726.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000727.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000728.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000729.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000735.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000736.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000737.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000738.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000739.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000740.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000741.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000742.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000743.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000744.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000745.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000746.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000747.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000748.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000749.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000750.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000751.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000752.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000753.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000754.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000758.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000759.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000760.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000761.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000762.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000763.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000764.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000767.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000768.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000769.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000770.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000772.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000773.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000775.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000776.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000777.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000778.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000779.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000780.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000781.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000782.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000783.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000784.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000785.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000786.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000787.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000788.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000789.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000847.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000848.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000849.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000850.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000851.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000852.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000853.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000854.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000855.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000856.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000857.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000858.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000859.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000860.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000861.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000862.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000863.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000864.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000865.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000866.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000867.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000868.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000869.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000870.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000871.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000872.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000873.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000874.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000875.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000876.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000877.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000878.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000879.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000880.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000881.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000882.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000883.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000884.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000885.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000886.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000887.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000888.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000889.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000890.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000891.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000892.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000893.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000894.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000895.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000896.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000897.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000898.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000899.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000900.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000901.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000902.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000903.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000904.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000905.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000906.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000907.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000908.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000909.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000910.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000911.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000912.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000913.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000914.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000915.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000916.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000917.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000918.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000919.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000920.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000921.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000922.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000923.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000924.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000925.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000926.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000927.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000928.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000929.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000930.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000931.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000932.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000933.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000934.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000935.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000936.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000937.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000938.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000939.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000940.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000941.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000942.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000943.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000944.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000945.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000946.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000947.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000948.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000949.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000950.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000951.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000952.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000953.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000954.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000955.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000956.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000957.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000958.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000959.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000960.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000961.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000962.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000963.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000964.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000965.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000966.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000967.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000968.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000969.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000970.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000971.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000972.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000973.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000974.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000975.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000976.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000977.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000978.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000979.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000980.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000981.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000982.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000983.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000984.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000985.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000986.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000987.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000988.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000989.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000990.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000991.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000992.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000993.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000994.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000995.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000996.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000997.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000998.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_000999.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001000.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001001.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001002.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001003.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001004.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001005.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001006.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001007.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001008.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001009.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001010.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001011.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001012.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001013.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001014.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001015.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001016.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001017.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001018.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001019.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001020.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001021.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001022.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001023.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001024.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001025.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001026.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001027.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001028.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001029.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001030.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001031.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001032.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001033.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001034.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001035.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001036.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001037.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001038.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001039.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001040.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001041.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001042.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001043.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001044.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001045.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001046.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001047.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001048.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001049.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001052.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001053.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\WP_001054.jpg' for object G:\BackupPictures\2016-06-11\WP_001054.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\WP_001055.jpg' for object G:\BackupPictures\2016-06-11\WP_001055.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001056.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001057.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001058.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001059.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001060.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001061.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001062.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001063.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001064.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001065.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001066.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001068.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001070.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001071.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\WP_001072.jpg' for object G:\BackupPictures\2016-06-11\WP_001072.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001073.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001074.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001075.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001076.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001077.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\WP_001078.jpg' for object G:\BackupPictures\2016-06-11\WP_001078.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\WP_001079.jpg' for object G:\BackupPictures\2016-06-11\WP_001079.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001080.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001081.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\WP_001082.jpg' for object G:\BackupPictures\2016-06-11\WP_001082.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\WP_001083.jpg' for object G:\BackupPictures\2016-06-11\WP_001083.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001084.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001085.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001086.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\WP_001087.jpg' for object G:\BackupPictures\2016-06-11\WP_001087.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\WP_001088.jpg' for object G:\BackupPictures\2016-06-11\WP_001088.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2016-06-11\\WP_001089.jpg' for object G:\BackupPictures\2016-06-11\WP_001089.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001090.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001091.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001092.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001093.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001094.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001095.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001096.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001097.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001098.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001099.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001100.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001101.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001102.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001103.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001104.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001105.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001106.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001107.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001108.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001109.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001110.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001111.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001112.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001114.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001115.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001116.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001117.jpg
+Error: 'DateTime' for object G:\BackupPictures\2016-06-11\WP_001118.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2017-11-07\\DSC_0001.zip' for object G:\BackupPictures\2017-11-07\DSC_0001.zip
+Error: cannot identify image file 'G:\\BackupPictures\\2018-08\\DSC_0305.MOV' for object G:\BackupPictures\2018-08\DSC_0305.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2018-08\\DSC_0312.MOV' for object G:\BackupPictures\2018-08\DSC_0312.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Encore5_Setup.exe' for object G:\BackupPictures\860OKMZO\e500w_demo\Encore5_Setup.exe
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\EULA_2009.rtf' for object G:\BackupPictures\860OKMZO\e500w_demo\EULA_2009.rtf
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Quick Start.pdf' for object G:\BackupPictures\860OKMZO\e500w_demo\Quick Start.pdf
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\READ ME.rtf' for object G:\BackupPictures\860OKMZO\e500w_demo\READ ME.rtf
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\3 part.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\3 part.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\4 part.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\4 part.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Beethoven.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Beethoven.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Chansonette.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Chansonette.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Chord Parsing.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Chord Parsing.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Chord Parsing2.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Chord Parsing2.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Grace.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Grace.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\J R.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\J R.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Lancaster.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Lancaster.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\LarkInClearAir.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\LarkInClearAir.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Opus 27 First Movement.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Opus 27 First Movement.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Passport to the coast.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Passport to the coast.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Rhythm Staff.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Rhythm Staff.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Some Stuff.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Some Stuff.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Trip to Sligo.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Trip to Sligo.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Twelve~1.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Twelve~1.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\Well, Licky Hear.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\Well, Licky Hear.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\When Johnny Comes Marching Home piano.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\When Johnny Comes Marching Home piano.enc
+Error: cannot identify image file 'G:\\BackupPictures\\860OKMZO\\e500w_demo\\Example Files\\When Johnny Comes Marching Home with lyrics.enc' for object G:\BackupPictures\860OKMZO\e500w_demo\Example Files\When Johnny Comes Marching Home with lyrics.enc
+Error: 'DateTime' for object G:\BackupPictures\943QRBHB\IMG_0314.JPG
+Error: cannot identify image file 'G:\\BackupPictures\\alice\\._.DS_Store' for object G:\BackupPictures\alice\._.DS_Store
+Error: cannot identify image file 'G:\\BackupPictures\\alice\\Thumbs.db' for object G:\BackupPictures\alice\Thumbs.db
+Error: 'DateTime' for object G:\BackupPictures\assorted\102-212 MuTigers.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted\102-213 Kathie_tiger.tif
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\001.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\002.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\003.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\004.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\005.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\006.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\007.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\008.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\009.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\010.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\011.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\012.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\013.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\014.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\015.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\016.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\017.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\018.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\019.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\020.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\021.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\022.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\023.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\024.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\025.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\026.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\027.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\028.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\029.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\029h.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\030 97nprior.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\031.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\032.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\033.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\034.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\035.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\036.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\037.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\038.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\039.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\040.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\041.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\042.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\043 99n98.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\044.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\044a.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\045.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\046.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\047.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\048.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\062.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\062h.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\063 2000.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\064.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\065.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\066.JPG
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\070.JPG
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\075.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\076.JPG
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\079.JPG
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\082.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\083.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\083c.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\084.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\085.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\086 2001.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\087.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\093a.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\093b.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\093c.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\123b.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\123k.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\132.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\132a.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\158.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\164.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\174.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\174b.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\175.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\186.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\187 403Dsny.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\187a.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\187f.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\187g.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\212b.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\234.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\235.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\235b 803.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\235c 803.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\235e 803.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\236.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\237.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\238.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\239.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\240.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\241.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\242.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\243 803.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\275.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\276.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\277.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\328.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\329.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\330.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\331.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\332.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\333.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\334.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\335.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\336.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\337 404.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\338.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\339.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\340.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\341.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\343.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\344.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\345.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\346.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\347.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\348.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\351.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\353.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\354.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\355.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\356.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\357.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\358.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\359.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\360.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\361.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\362.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\363.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\365.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\370.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\371.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\372.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\373.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\374.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\375.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\376.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\377.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\388.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\446 1004Hallo.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\448.JPG
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\453.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\454.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\455.JPG
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\87a.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\87b.jpg
+Error: 'DateTime' for object G:\BackupPictures\assorted  old pictures\87c.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\Attachments\\Resuming_Info.bin' for object G:\BackupPictures\Attachments\Resuming_Info.bin
+Error: cannot identify image file 'G:\\BackupPictures\\boys laptop stuff\\#0.wps' for object G:\BackupPictures\boys laptop stuff\#0.wps
+Error: cannot identify image file 'G:\\BackupPictures\\boys laptop stuff\\1 chinese.wps' for object G:\BackupPictures\boys laptop stuff\1 chinese.wps
+Error: 'DateTime' for object G:\BackupPictures\boys laptop stuff\14842_minecraft.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\boys laptop stuff\\animal report.wps' for object G:\BackupPictures\boys laptop stuff\animal report.wps
+Error: cannot identify image file 'G:\\BackupPictures\\boys laptop stuff\\bear cat.wps' for object G:\BackupPictures\boys laptop stuff\bear cat.wps
+Error: cannot identify image file 'G:\\BackupPictures\\boys laptop stuff\\bio poem erik.wps' for object G:\BackupPictures\boys laptop stuff\bio poem erik.wps
+Error: cannot identify image file 'G:\\BackupPictures\\boys laptop stuff\\bio poem kyle.wps' for object G:\BackupPictures\boys laptop stuff\bio poem kyle.wps
+Error: cannot identify image file 'G:\\BackupPictures\\boys laptop stuff\\Bisness leter.wps' for object G:\BackupPictures\boys laptop stuff\Bisness leter.wps
+Error: cannot identify image file 'G:\\BackupPictures\\boys laptop stuff\\blunt committee.wps' for object G:\BackupPictures\boys laptop stuff\blunt committee.wps
+Error: cannot identify image file 'G:\\BackupPictures\\boys laptop stuff\\blunt current issue.wps' for object G:\BackupPictures\boys laptop stuff\blunt current issue.wps
+Error: 'DateTime' for object G:\BackupPictures\Bros K\BrosLincCtr612a.jpg
+Error: 'DateTime' for object G:\BackupPictures\Bros K\BrosSC13.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\Camera Roll\\.picasa.ini' for object G:\BackupPictures\Camera Roll\.picasa.ini
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\10517469_937302856296511_7222874233220857103_n.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\Camera Roll\\6tag_010115-000514.jpg' for object G:\BackupPictures\Camera Roll\6tag_010115-000514.jpg
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\IMG_3993 (1).jpg
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\Snapshot_2014619 (2).jpg
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\Snapshot_2014619.jpg
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\Snapshot_2014915.jpg
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\WIN_20141209_211657.JPG
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\WIN_20141209_211829.JPG
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\WIN_20141209_211857.JPG
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\WIN_20141209_211907.JPG
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\WIN_20141209_212420.JPG
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\WIN_20141209_212424.JPG
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\WIN_20141209_212501.JPG
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\WIN_20141209_212554.JPG
+Error: 'DateTime' for object G:\BackupPictures\Camera Roll\WIN_20141209_212945.JPG
+Error: cannot identify image file 'G:\\BackupPictures\\Camera Roll\\desktop.ini' for object G:\BackupPictures\Camera Roll\desktop.ini
+Error: 'DateTime' for object G:\BackupPictures\disc 02 03\Hallo02.psd
+Error: 'DateTime' for object G:\BackupPictures\disc 02 03\MuirNY02a 063a.psd
+Error: 'DateTime' for object G:\BackupPictures\disc 02 03\MuirNY02a 072.psd
+Error: 'DateTime' for object G:\BackupPictures\disc 02 03\MuirNY02a 074.psd
+Error: 'DateTime' for object G:\BackupPictures\disc 02 03\MuirNY02a 084.psd
+Error: 'DateTime' for object G:\BackupPictures\disc 02 03\MuirNY02a 094a.psd
+Error: 'DateTime' for object G:\BackupPictures\disc 02 03\MuirNY02a 097a.psd
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Baldwin.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\BeadhBoys02.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\BoysBD04.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\BoysWRob04bb.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\BoysWRobo4cc.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\BoywRobbie04.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Camp04.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Chris04Card.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\D&G40.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Dalmatians.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\ErikSchPoster02.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\ErikWkHead1.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\FamPast.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\GeoCathRob04.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Georgie1204.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Grams1203 023.psd
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Hallo03a.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Hallo03b.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Hallo03Robbie.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Hallo03Robbie2.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Huntington98.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\K&LynnBoise.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\KL&MM97.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Kyle1204.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Lynn&GeoPast.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\LynnBoysK40th.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\MoGilmore.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Omi1a.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\Omi2b.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\OmiRobbie3a.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\RobbieMom1.jpg
+Error: 'DateTime' for object G:\BackupPictures\disc 03  atlantis\WheelBarrowRace.jpg
+Error: cannot identify image file "G:\\BackupPictures\\Documents\\George's Notebook.url" for object G:\BackupPictures\Documents\George's Notebook.url
+Error: cannot identify image file 'G:\\BackupPictures\\Documents\\kitty.url' for object G:\BackupPictures\Documents\kitty.url
+Error: cannot identify image file 'G:\\BackupPictures\\Documents\\Personal (Web).url' for object G:\BackupPictures\Documents\Personal (Web).url
+Error: cannot identify image file 'G:\\BackupPictures\\donnas\\._.DS_Store' for object G:\BackupPictures\donnas\._.DS_Store
+Error: cannot identify image file 'G:\\BackupPictures\\donnas\\._albedaft.jpg' for object G:\BackupPictures\donnas\._albedaft.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas\\._albedaft1.jpg' for object G:\BackupPictures\donnas\._albedaft1.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas\\._albedaft2.jpg' for object G:\BackupPictures\donnas\._albedaft2.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas\\._albedbef.jpg' for object G:\BackupPictures\donnas\._albedbef.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas\\._tablebef.JPG' for object G:\BackupPictures\donnas\._tablebef.JPG
+Error: cannot identify image file 'G:\\BackupPictures\\donnas\\._tablemats.jpg' for object G:\BackupPictures\donnas\._tablemats.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas\\._tablemats2.jpg' for object G:\BackupPictures\donnas\._tablemats2.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas\\._tablerunner.jpg' for object G:\BackupPictures\donnas\._tablerunner.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas\\._tablerunner2.jpg' for object G:\BackupPictures\donnas\._tablerunner2.jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\1ed98806c8a34ff7924347cc0b59bef1[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\34e2918b45844b2087f670553aed1507[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\5039352246d94c8bbb6283854f0af16d.Large[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\denaft_bc4fa.Large[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\denbef_316bb.Large[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\DSC_0075_87e01.Large[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\DSC_0079_0c74b.Large[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\DSC_02277_3ce74.Large[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\foyerbef_fc2df.Large[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\kitaft_30ce7.Large[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\kitbef_c7d23.Large[1].jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas\livbef_48f46.Large[1].jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas upsatairs\\._.DS_Store' for object G:\BackupPictures\donnas upsatairs\._.DS_Store
+Error: cannot identify image file 'G:\\BackupPictures\\donnas upsatairs\\._DSC_0535.jpg' for object G:\BackupPictures\donnas upsatairs\._DSC_0535.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas upsatairs\\._upbedaft.jpg' for object G:\BackupPictures\donnas upsatairs\._upbedaft.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas upsatairs\\._upbedaft1.jpg' for object G:\BackupPictures\donnas upsatairs\._upbedaft1.jpg
+Error: 'DateTime' for object G:\BackupPictures\donnas upsatairs\DSC_0015_0d46c.Small.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\donnas upsatairs\\Thumbs.db' for object G:\BackupPictures\donnas upsatairs\Thumbs.db
+Error: cannot identify image file 'G:\\BackupPictures\\Downloaded Albums\\103252086450664045544\\2017-02-03\\feed.rss' for object G:\BackupPictures\Downloaded Albums\103252086450664045544\2017-02-03\feed.rss
+Error: cannot identify image file 'G:\\BackupPictures\\Downloaded Albums\\103252086450664045544\\2017-02-03\\View Online.url' for object G:\BackupPictures\Downloaded Albums\103252086450664045544\2017-02-03\View Online.url
+Error: cannot identify image file 'G:\\BackupPictures\\Downloaded Albums\\103252086450664045544\\20171226\\feed.rss' for object G:\BackupPictures\Downloaded Albums\103252086450664045544\20171226\feed.rss
+Error: cannot identify image file 'G:\\BackupPictures\\Downloaded Albums\\103252086450664045544\\20171226\\View Online.url' for object G:\BackupPictures\Downloaded Albums\103252086450664045544\20171226\View Online.url
+Error: cannot identify image file 'G:\\BackupPictures\\Downloaded Albums\\103252086450664045544\\Drop Box\\feed.rss' for object G:\BackupPictures\Downloaded Albums\103252086450664045544\Drop Box\feed.rss
+Error: cannot identify image file 'G:\\BackupPictures\\Downloaded Albums\\103252086450664045544\\Drop Box\\View Online.url' for object G:\BackupPictures\Downloaded Albums\103252086450664045544\Drop Box\View Online.url
+Error: 'DateTime' for object G:\BackupPictures\Family K\Dad2011.jpg
+Error: 'DateTime' for object G:\BackupPictures\Family K\Fam1012a.jpg
+Error: 'DateTime' for object G:\BackupPictures\Family K\Fam612b.jpg
+Error: 'DateTime' for object G:\BackupPictures\Favs K\Hallo b 02.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000003.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000004.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000005.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000007.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000008.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000009.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000011.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000012.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000013.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000014.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000015.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000016.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000017.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000018.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000019.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000020.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000021.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000022.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000023.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000024.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000025.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000026.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000027.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000028.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000029.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000030.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000031.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000032.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000034.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000035.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000036.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000037.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000038.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000039.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000040.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000043.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000044.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000047.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000048.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000049.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000051.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000052.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000063.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000064.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000077.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000085.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000091.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000095.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000096.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000097.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000098.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000099.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000100.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000102.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000103.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Camera roll\WP_000104.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Saved pictures\V__BCA0.jpg
+Error: 'DateTime' for object G:\BackupPictures\From NOKIA Lumia 900\Saved pictures\V__D430.jpg
+Error: 'DateTime' for object G:\BackupPictures\FT K\FTSo Am 101701.jpg
+Error: 'DateTime' for object G:\BackupPictures\Fun K\Lynn car.jpeg
+Error: 'DateTime' for object G:\BackupPictures\Fun K\Riley1b .jpg
+Error: 'DateTime' for object G:\BackupPictures\Fun K\Kyle12 12\Kyle1 20090003.jpg
+Error: 'DateTime' for object G:\BackupPictures\Invoice\Top-001.bmp
+Error: 'DateTime' for object G:\BackupPictures\Invoice\Top.bmp
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\set1\1CardFronts.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\set1\2CardBacks.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\set1\3Geo CardInside.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\set1\4Kyle CardInside.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\set1\5Erik CardInside.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\set2\Eric1_200432.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\set4\LC Geo1 153852.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\set4\LC Geo2 153852.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\To D&G NY LincCtr\Dad Geo1_155936e.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\To D&G NY LincCtr\Eric&Me1_200432 copy.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\To D&G NY LincCtr\LC Geo2 153852 copy.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\To D&G NY LincCtr\LC Kyle 1705e.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\To D&G NY LincCtr\LC Kyle2 copy.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\To D&G NY LincCtr\LC Kyle3 copy.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\To D&G NY LincCtr\LC Kyle4 161705.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\To D&G NY LincCtr\LC Kyle5_161632.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kat copies\To D&G NY LincCtr\LC Kyle_1632e.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle\Kyle LC1a.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle\Kyle LC2a.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle\Kyle LC2b.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121115_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121115_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121115_007.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121115_008.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121116_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121117_008.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121117_009.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121117_010.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121117_011.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121117_012.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121117_016.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121117_017.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121118_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121118_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121119_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121120_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121121_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121122_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121122_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121122_006.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121122_007.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121122_008.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121122_009.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121122_010.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121122_012.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121122_013.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_006.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_007.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_008.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_009.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_010.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_011.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_012.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_013.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_014.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_015.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_016.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_019.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121123_020.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121209_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\Kyle Lumia 920\Camera Roll\WP_20121222_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\12372154-Cartoon-Home-Lamp-Stock-Vector.jpg
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\cartoon-home-lamp-vector-737139.jpg
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\cartoon-lamp-5.gif
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\cb=gapi.loaded_0' for object G:\BackupPictures\lamp cartoon - Google Search_files\cb=gapi.loaded_0
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\dn.js.download' for object G:\BackupPictures\lamp cartoon - Google Search_files\dn.js.download
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\email_grey600_24dp.png
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\fb_32x32.png
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\frame.html' for object G:\BackupPictures\lamp cartoon - Google Search_files\frame.html
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\gplus_32x32.png
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(1)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(10)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(11)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(12)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(13)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(14)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(15)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(16)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(17)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(18)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(19)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(2)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(20)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(21)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(22)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(23)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(24)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(25)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(26)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(27)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(28)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(29)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(3)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(30)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(31)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(32)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(33)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(34)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(35)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(36)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(37)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(38)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(39)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(4)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(40)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(41)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(42)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(43)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(44)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(45)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(46)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(47)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(48)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(49)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(5)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(50)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(6)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(7)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(8)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\images(9)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent(1)' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent(1)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent(10)' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent(10)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent(2)' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent(2)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent(3)' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent(3)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent(4)' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent(4)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent(5)' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent(5)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent(6)' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent(6)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent(7)' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent(7)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent(8)' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent(8)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\imgevent(9)' for object G:\BackupPictures\lamp cartoon - Google Search_files\imgevent(9)
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\nav_logo242.png
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\rs=AA2YrTv10hJ3SSgZ7-UUnr_Xz3mYiHA2Yg' for object G:\BackupPictures\lamp cartoon - Google Search_files\rs=AA2YrTv10hJ3SSgZ7-UUnr_Xz3mYiHA2Yg
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA' for object G:\BackupPictures\lamp cartoon - Google Search_files\rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(1)' for object G:\BackupPictures\lamp cartoon - Google Search_files\rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(1)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(2)' for object G:\BackupPictures\lamp cartoon - Google Search_files\rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(2)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(3)' for object G:\BackupPictures\lamp cartoon - Google Search_files\rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(3)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(4)' for object G:\BackupPictures\lamp cartoon - Google Search_files\rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(4)
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\rs=AGLTcCN4jgU-aIbAS4BHWzFEoUYbJ1V42A' for object G:\BackupPictures\lamp cartoon - Google Search_files\rs=AGLTcCN4jgU-aIbAS4BHWzFEoUYbJ1V42A
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\rs=AGLTcCPD_e1vTGf2pRmijjQZ1yIIQD4coQ' for object G:\BackupPictures\lamp cartoon - Google Search_files\rs=AGLTcCPD_e1vTGf2pRmijjQZ1yIIQD4coQ
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\rs=AGLTcCPrznUUMpXFNF5iY82vQi_IDhg-Kg' for object G:\BackupPictures\lamp cartoon - Google Search_files\rs=AGLTcCPrznUUMpXFNF5iY82vQi_IDhg-Kg
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\rs=AHpOoo_3e5RFIZgALJe_c8WXopU_RyULxg' for object G:\BackupPictures\lamp cartoon - Google Search_files\rs=AHpOoo_3e5RFIZgALJe_c8WXopU_RyULxg
+Error: cannot identify image file 'G:\\BackupPictures\\lamp cartoon - Google Search_files\\saved_resource.html' for object G:\BackupPictures\lamp cartoon - Google Search_files\saved_resource.html
+Error: 'DateTime' for object G:\BackupPictures\lamp cartoon - Google Search_files\twitter_32x32.png
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\sample_photo_01.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\sample_photo_02.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\sample_photo_03.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\sample_photo_04.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\sample_photo_06.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\sample_photo_07.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\sample_photo_08.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000003.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000004.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000005.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000007.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000008.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000011.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000012.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000013.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000014.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000015.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000016.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000017.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000018.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000019.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000020.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000021.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000022.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000023.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000024.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000025.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000026.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000027.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000028.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000029.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000031.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000032.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000034.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000035.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000036.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000037.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000038.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000039.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000040.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000043.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000044.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000047.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000048.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000049.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000051.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000052.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000063.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000064.jpg
+Error: 'DateTime' for object G:\BackupPictures\lumia 900\WP_000077.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\Mobile uploads\\Sent Items.dbx' for object G:\BackupPictures\Mobile uploads\Sent Items.dbx
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000004.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000005.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000008.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000011.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000013.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000014.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000015.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000016.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000017.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000018.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000019.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000020.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000021.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000022.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000023.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000024.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000025.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000026.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000027.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000028.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000029.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000030.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000497.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000498.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000500.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000769.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_000959.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001054.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001055.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001072.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001078.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001079.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001082 (1).jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001082.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001083.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001085.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001086 (1).jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001086.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001087.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001088.jpg
+Error: 'DateTime' for object G:\BackupPictures\Mobile uploads\WP_001089.jpg
+Error: 'DateTime' for object G:\BackupPictures\mom mur panama\Pan05 000a.jpg
+Error: 'DateTime' for object G:\BackupPictures\mom mur panama\Pan05 005a.jpg
+Error: 'DateTime' for object G:\BackupPictures\mom mur panama\Pan05 016c.jpg
+Error: 'DateTime' for object G:\BackupPictures\mom mur panama\Pan05 021a.jpg
+Error: 'DateTime' for object G:\BackupPictures\mom mur panama\Pan05 030a.jpg
+Error: 'DateTime' for object G:\BackupPictures\mom mur panama\Pan05 090b.jpg
+Error: 'DateTime' for object G:\BackupPictures\mom mur panama\Pan05 147a.jpg
+Error: 'DateTime' for object G:\BackupPictures\mom mur panama\Pan05 147c.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\00 799a.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\00-Boys300.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\0000_80GeoLyn.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\0000_84D&GMomc.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\0000_85 a85b.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\0000_97Christening1.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\0000_97Christening2.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_97 49097.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_97 49098.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_97blK&L.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_97bNanu9 25.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_97BPro_aG92597.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_97BPro_bK92597.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_97BPro_cE92597.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_97Christmas97.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_98al2Boys3C2.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_98aNanaNanu.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_98Chris99c.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_98fl3DadnB&P2.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_98HallCrawl98.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_98Hunt.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_98Hunt1298.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_98Pram698a.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_99Boys699a.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\000_99Chris99b.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\00Fav3 7 2000.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\00Hallo00.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\00_00Boys301.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\00_G HunBch.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\00_K HuntBch.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\00_LE HuntBch.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\01 78a 301.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\01 78b 301.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\01 78c 301.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\01 Boys301.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\01 Chris01.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\01 Ten081 601.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\01 trayErik2a.JPG
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\01Boys801c.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\01Hallo01.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\01Santa01.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\02 123b 702.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\02Grads.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\02Santa02.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\02_93a 702.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\02_93b 702.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\02_93c 702.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\02_93h 702Rplc.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\02_93r 1002.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\03 186 403.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\03 237 803.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\03 243d 1003.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\03Hallo03b.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\04 BootCamp.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\04FutFam.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\04Georgie1204.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\04Kyle1204.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\04Omi1a.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\04_91MexiKyle04.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\04_91web.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\05autum05027.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\05KeirChristen w Boys2.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\05KeirChristen24.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\05Kiersten1stChris.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\06 BoysBBall06 copy1.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\08 SC .jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\11ChrisStPats.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\12 bDad Geo1_155936e.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\12LC Kyle 1705e sm.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\12oGeo Right end.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\12oKyle Center1 (1).jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\12WP Boys w Lori & Muir.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\12WP_000034.jpg
+Error: 'DateTime' for object G:\BackupPictures\Muriel's USB Drive\13WP_000125.jpg
+Error: 'DateTime' for object G:\BackupPictures\Off Laptop\WP_000029.jpg
+Error: 'DateTime' for object G:\BackupPictures\Off Laptop\WP_000034.jpg
+Error: 'DateTime' for object G:\BackupPictures\Off Laptop\WP_000039.jpg
+Error: 'DateTime' for object G:\BackupPictures\Off Laptop\WP_000052.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\3Boys04a.psd
+Error: 'DateTime' for object G:\BackupPictures\photos 1\EricHead1.psd
+Error: 'DateTime' for object G:\BackupPictures\photos 1\ErikUniform.psd
+Error: 'DateTime' for object G:\BackupPictures\photos 1\GeoHead2.psd
+Error: 'DateTime' for object G:\BackupPictures\photos 1\KyleHead1.psd
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\6tag_240115-201103.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\KYLE - WIN_20131225_213903.JPG
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\KYLE - WIN_20140123_202116.JPG
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\KYLE - WIN_20140123_202737.JPG
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\KYLE - WIN_20140123_203027.JPG
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\KYLE - WIN_20140123_203048.JPG
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\KYLE - WIN_20140331_224852.JPG
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\KYLE - WIN_20140331_224911.JPG
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\KYLE - WIN_20140331_230044.JPG
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121122_009.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121123_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121123_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121123_006.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121123_008.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121123_009.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121123_010.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121123_011.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121123_014.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121209_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121222_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121222_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121222_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121222_008.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121222_009.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121222_010.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121223_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121224_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20121224_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_006.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_007.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_008.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_009.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_010.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_011.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130209_012.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130330_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130330_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130331_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130331_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130331_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130331_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130331_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130331_006.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130401_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130401_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130401_008.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130401_17_51_16_Panorama.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130504_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130504_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130510_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130510_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130512_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130512_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130524_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130609_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130620_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130624_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130626_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130713_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130722_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130726_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130726_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130726_006.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130801_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130801_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130801_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130801_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130810_058.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130821_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130823_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130823_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130823_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130830_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130830_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130830_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130830_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130830_006.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130907_007.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130907_009.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20130920_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20131020_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20131020_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20131020_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20131020_007.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20131104_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20131105_008.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20131108_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20131213_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20131231_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140102_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140110_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140115_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140115_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140122_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140122_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140123_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140203_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140210_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140221_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140221_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140225_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140313_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140313_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140313_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140327_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140327_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_006.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_15_24_58_Smart.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_15_26_26_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_15_27_32_Smart.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_20_54_33_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_20_55_04_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_20_55_20_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_20_55_55_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_20_56_47_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_20_56_49_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_20_57_27_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140328_21_01_08_Smart.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140331_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140331_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140331_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140411_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140411_21_53_15_Smart.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140412_12_38_50_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140415_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140415_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140415_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140415_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140415_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140416_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140416_16_46_57_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140416_16_48_33_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140416_16_48_55_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140418_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140418_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140418_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140419_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140419_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140419_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140419_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140419_009.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140419_010.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140419_011.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140419_012.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140420_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140420_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140420_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140501_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140504_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140504_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140504_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140504_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140504_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140513_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140513_006.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140514_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140514_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_005.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_007.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_008.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_009.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_010.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_011.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_012.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_013.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_014.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_016.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_017.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140516_019.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140517_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140517_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140517_004.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140524_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140529_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140531_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140531_002.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140531_003.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140604_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20140605_001.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 1\Camera Roll\WP_20150325_15_42_12_Pro.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Boys505 024.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Boys505 025.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Boys505 026.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Boys505 027.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Boys505 028.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\photos 2\\CIMG0044.JPG' for object G:\BackupPictures\photos 2\CIMG0044.JPG
+Error: 'DateTime' for object G:\BackupPictures\photos 2\ErikComHost1.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\GeoComHost2.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Henry.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\hpothb07.tif
+Error: 'DateTime' for object G:\BackupPictures\photos 2\KyleComHost1.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 1.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 10.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 11.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 12.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 13.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 14.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 15.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 2.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 3.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 4.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 5.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 6.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 7.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 8.jpg
+Error: 'DateTime' for object G:\BackupPictures\photos 2\Picture 9.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\Picasa\\Collages\\autosave.cxf' for object G:\BackupPictures\Picasa\Collages\autosave.cxf
+Error: cannot identify image file 'G:\\BackupPictures\\Picasa\\Collages\\Recovered Autosave.cxf' for object G:\BackupPictures\Picasa\Collages\Recovered Autosave.cxf
+Error: 'DateTime' for object G:\BackupPictures\Pictures\WP_20160506 1.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\WP_20160506 2.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\WP_20160506 3.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\WP_20160506.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\FAMILYLAPTOP - 10517469_937302856296511_7222874233220857103_n.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\FAMILYLAPTOP - Snapshot_2014619 (2).jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\FAMILYLAPTOP - Snapshot_2014619.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - FOT540.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140123_200843.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140310_010037.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140310_010101.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140310_010110.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140416_103224.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140416_103227.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140416_103233.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140416_103237.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140416_103258.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140416_103303.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_204805.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_204814.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_204821.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_204824.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_204833.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_204837.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_204841.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_204959.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_205207.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_205228.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_205242.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_205301.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\SASHA - WIN_20140906_205325.JPG
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\WP_000959.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\WP_001111.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\WP_001112.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\WP_001114.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\WP_001115.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\WP_001116.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\WP_001117.jpg
+Error: 'DateTime' for object G:\BackupPictures\Pictures\Camera Roll\WP_001118.jpg
+Error: 'DateTime' for object G:\BackupPictures\price change\Top.bmp
+Error: cannot identify image file 'G:\\BackupPictures\\Saved Pictures\\desktop.ini' for object G:\BackupPictures\Saved Pictures\desktop.ini
+Error: 'DateTime' for object G:\BackupPictures\Scans\Scan_20150313.png
+Error: cannot identify image file 'G:\\BackupPictures\\Screenshots\\desktop.ini' for object G:\BackupPictures\Screenshots\desktop.ini
+Error: 'DateTime' for object G:\BackupPictures\Screenshots\Screenshot (1).png
+Error: 'DateTime' for object G:\BackupPictures\Screenshots\Screenshot (10).png
+Error: 'DateTime' for object G:\BackupPictures\Screenshots\Screenshot (11).png
+Error: 'DateTime' for object G:\BackupPictures\Screenshots\Screenshot (12).png
+Error: 'DateTime' for object G:\BackupPictures\Screenshots\Screenshot (13).png
+Error: 'DateTime' for object G:\BackupPictures\Screenshots\Screenshot (2).png
+Error: 'DateTime' for object G:\BackupPictures\Screenshots\Screenshot (9).png
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_ara_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_ara_casio.txt
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_chs_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_chs_casio.txt
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_cht_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_cht_casio.txt
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_dut_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_dut_casio.txt
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_eng_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_eng_casio.txt
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_fre_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_fre_casio.txt
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_ger_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_ger_casio.txt
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_ita_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_ita_casio.txt
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_kor_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_kor_casio.txt
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_spa_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_spa_casio.txt
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\Readme_sve_casio.txt' for object G:\BackupPictures\USB_B_120E\Readme_sve_casio.txt
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\Copy of DSCN1475.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1475.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1479.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1480.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1481.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1492.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1493.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1495.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1496.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1498.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1500.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\DSCN1501.JPG
+Error: 'DateTime' for object G:\BackupPictures\USB_B_120E\lynnes\garage.JPG
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\lynnes\\Thumbs.db' for object G:\BackupPictures\USB_B_120E\lynnes\Thumbs.db
+Error: cannot identify image file 'G:\\BackupPictures\\USB_B_120E\\summer09\\Thumbs.db' for object G:\BackupPictures\USB_B_120E\summer09\Thumbs.db
+Error: 'DateTime' for object G:\BackupPictures\2018-12\WP_20180611_025.jpg
+Error: 'DateTime' for object G:\BackupPictures\2018-12\WP_20180611_090.jpg
+Error: 'DateTime' for object G:\BackupPictures\2019-01\WP_20180611_025.jpg
+Error: cannot identify image file 'G:\\BackupPictures\\2019-05\\DSC_0312.MOV' for object G:\BackupPictures\2019-05\DSC_0312.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-05\\DSC_0364.MOV' for object G:\BackupPictures\2019-05\DSC_0364.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-05\\DSC_0372.MOV' for object G:\BackupPictures\2019-05\DSC_0372.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-05\\DSC_0395.MOV' for object G:\BackupPictures\2019-05\DSC_0395.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-10\\DSC_0173.MOV' for object G:\BackupPictures\2019-10\DSC_0173.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-10\\DSC_0241.MOV' for object G:\BackupPictures\2019-10\DSC_0241.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-10\\DSC_0474.MOV' for object G:\BackupPictures\2019-10\DSC_0474.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-10\\DSC_0475.MOV' for object G:\BackupPictures\2019-10\DSC_0475.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-10\\DSC_0715.MOV' for object G:\BackupPictures\2019-10\DSC_0715.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-10\\DSC_0775.MOV' for object G:\BackupPictures\2019-10\DSC_0775.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-10\\DSC_0830.MOV' for object G:\BackupPictures\2019-10\DSC_0830.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-10\\DSC_0831.MOV' for object G:\BackupPictures\2019-10\DSC_0831.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-11\\DSC_0089.MOV' for object G:\BackupPictures\2019-11\DSC_0089.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-12\\DSC_0040.MOV' for object G:\BackupPictures\2019-12\DSC_0040.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2019-12\\DSC_0041.MOV' for object G:\BackupPictures\2019-12\DSC_0041.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2020-02\\DSC_0089.MOV' for object G:\BackupPictures\2020-02\DSC_0089.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2020-02\\DSC_0117.MOV' for object G:\BackupPictures\2020-02\DSC_0117.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2020-02\\DSC_0118.MOV' for object G:\BackupPictures\2020-02\DSC_0118.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2020-02\\DSC_0119.MOV' for object G:\BackupPictures\2020-02\DSC_0119.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2020-02\\DSC_0120.MOV' for object G:\BackupPictures\2020-02\DSC_0120.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2020-09\\DSC_0155.MOV' for object G:\BackupPictures\2020-09\DSC_0155.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2020-09\\DSC_0156.MOV' for object G:\BackupPictures\2020-09\DSC_0156.MOV
+Error: cannot identify image file 'G:\\BackupPictures\\2020-09\\DSC_0157.MOV' for object G:\BackupPictures\2020-09\DSC_0157.MOV

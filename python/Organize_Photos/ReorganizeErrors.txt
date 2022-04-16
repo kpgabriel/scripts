@@ -1,0 +1,165 @@
+Files not moved ** G:/SanDisk Flashback.pdf
+Files not moved ** G:/SanDiskSecureAccessV3.01_win.exe
+Files not moved ** G:/SanDiskSecureAccess/DownloadSanDiskSecureAccess_Mac.pdf
+Files not moved ** G:/SanDiskSecureAccess/SanDisk_SecureAccess_QSG.pdf
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+Files not moved ** G:/BackupPictures/1interiordesign101.pdf
+Files not moved ** G:/BackupPictures/e502w_demo.zip
+execute returned a non-zero exit status: 1
+Files not moved ** G:/BackupPictures/flyer2.pdf
+Files not moved ** G:/BackupPictures/FREE Kodak Offer.URL
+Files not moved ** G:/BackupPictures/FUTMupdated.pdf
+Files not moved ** G:/BackupPictures/Geo1208a.psd
+Files not moved ** G:/BackupPictures/Georgie cello.zip
+Files not moved ** G:/BackupPictures/Georgie piano.zip
+Files not moved ** G:/BackupPictures/HP Installation Error - XP.hta
+execute returned a non-zero exit status: 1
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search.html
+Files not moved ** G:/BackupPictures/New Wave Sound.wav
+Files not moved ** G:/BackupPictures/Pictures - Shortcut.lnk
+execute returned a non-zero exit status: 1
+Files not moved ** G:/BackupPictures/desktop.ini
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+Files not moved ** G:/BackupPictures/2017-11-07/DSC_0001.zip
+Files not moved ** G:/BackupPictures/2018-08/DSC_0305.MOV
+Files not moved ** G:/BackupPictures/2018-08/DSC_0312.MOV
+Files not moved ** G:/BackupPictures/860OKMZO/e500w_demo/Encore5_Setup.exe
+Files not moved ** G:/BackupPictures/860OKMZO/e500w_demo/EULA_2009.rtf
+Files not moved ** G:/BackupPictures/860OKMZO/e500w_demo/Quick Start.pdf
+Files not moved ** G:/BackupPictures/860OKMZO/e500w_demo/READ ME.rtf
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+Files not moved ** G:/BackupPictures/alice/._.DS_Store
+execute returned a non-zero exit status: 1
+execute returned a non-zero exit status: 1
+Files not moved ** G:/BackupPictures/Camera Roll/desktop.ini
+Files not moved ** G:/BackupPictures/disc 02 03/Hallo02.psd
+Files not moved ** G:/BackupPictures/disc 02 03/MuirNY02a 063a.psd
+Files not moved ** G:/BackupPictures/disc 02 03/MuirNY02a 072.psd
+Files not moved ** G:/BackupPictures/disc 02 03/MuirNY02a 074.psd
+Files not moved ** G:/BackupPictures/disc 02 03/MuirNY02a 084.psd
+Files not moved ** G:/BackupPictures/disc 02 03/MuirNY02a 094a.psd
+Files not moved ** G:/BackupPictures/disc 02 03/MuirNY02a 097a.psd
+Files not moved ** G:/BackupPictures/disc 03  atlantis/Grams1203 023.psd
+Files not moved ** G:/BackupPictures/Documents/George's Notebook.url
+Files not moved ** G:/BackupPictures/Documents/kitty.url
+Files not moved ** G:/BackupPictures/Documents/Personal (Web).url
+Files not moved ** G:/BackupPictures/donnas/._.DS_Store
+Files not moved ** G:/BackupPictures/donnas/._albedaft.jpg
+Files not moved ** G:/BackupPictures/donnas/._albedaft1.jpg
+Files not moved ** G:/BackupPictures/donnas/._albedaft2.jpg
+Files not moved ** G:/BackupPictures/donnas/._albedbef.jpg
+Files not moved ** G:/BackupPictures/donnas/._tablebef.JPG
+Files not moved ** G:/BackupPictures/donnas/._tablemats.jpg
+Files not moved ** G:/BackupPictures/donnas/._tablemats2.jpg
+Files not moved ** G:/BackupPictures/donnas/._tablerunner.jpg
+Files not moved ** G:/BackupPictures/donnas/._tablerunner2.jpg
+Files not moved ** G:/BackupPictures/donnas upsatairs/._.DS_Store
+Files not moved ** G:/BackupPictures/donnas upsatairs/._DSC_0535.jpg
+Files not moved ** G:/BackupPictures/donnas upsatairs/._upbedaft.jpg
+Files not moved ** G:/BackupPictures/donnas upsatairs/._upbedaft1.jpg
+Files not moved ** G:/BackupPictures/Downloaded Albums/103252086450664045544/2017-02-03/feed.rss
+Files not moved ** G:/BackupPictures/Downloaded Albums/103252086450664045544/2017-02-03/View Online.url
+Files not moved ** G:/BackupPictures/Downloaded Albums/103252086450664045544/20171226/feed.rss
+Files not moved ** G:/BackupPictures/Downloaded Albums/103252086450664045544/20171226/View Online.url
+Files not moved ** G:/BackupPictures/Downloaded Albums/103252086450664045544/Drop Box/feed.rss
+Files not moved ** G:/BackupPictures/Downloaded Albums/103252086450664045544/Drop Box/View Online.url
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/cb=gapi.loaded_0
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/dn.js.download
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/frame.html
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent(1)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent(10)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent(2)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent(3)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent(4)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent(5)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent(6)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent(7)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent(8)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/imgevent(9)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/rs=AA2YrTv10hJ3SSgZ7-UUnr_Xz3mYiHA2Yg
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(1)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(2)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(3)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/rs=ACT90oHiFEgtrVzdcKUQMrSyq6sxfPQPAA(4)
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/rs=AGLTcCN4jgU-aIbAS4BHWzFEoUYbJ1V42A
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/rs=AGLTcCPD_e1vTGf2pRmijjQZ1yIIQD4coQ
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/rs=AGLTcCPrznUUMpXFNF5iY82vQi_IDhg-Kg
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/rs=AHpOoo_3e5RFIZgALJe_c8WXopU_RyULxg
+Files not moved ** G:/BackupPictures/lamp cartoon - Google Search_files/saved_resource.html
+execute returned a non-zero exit status: 1
+Files not moved ** G:/BackupPictures/photos 1/3Boys04a.psd
+Files not moved ** G:/BackupPictures/photos 1/EricHead1.psd
+Files not moved ** G:/BackupPictures/photos 1/ErikUniform.psd
+Files not moved ** G:/BackupPictures/photos 1/GeoHead2.psd
+Files not moved ** G:/BackupPictures/photos 1/KyleHead1.psd
+execute returned a non-zero exit status: 1
+Files not moved ** G:/BackupPictures/Picasa/Collages/autosave.cxf
+Files not moved ** G:/BackupPictures/Picasa/Collages/Recovered Autosave.cxf
+Files not moved ** G:/BackupPictures/Saved Pictures/desktop.ini
+Files not moved ** G:/BackupPictures/Screenshots/desktop.ini
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_ara_casio.txt
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_chs_casio.txt
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_cht_casio.txt
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_dut_casio.txt
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_eng_casio.txt
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_fre_casio.txt
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_ger_casio.txt
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_ita_casio.txt
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_kor_casio.txt
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_spa_casio.txt
+Files not moved ** G:/BackupPictures/USB_B_120E/Readme_sve_casio.txt
+Files not moved ** G:/BackupPictures/2019-05/DSC_0312.MOV
+Files not moved ** G:/BackupPictures/2019-05/DSC_0364.MOV
+Files not moved ** G:/BackupPictures/2019-05/DSC_0372.MOV
+Files not moved ** G:/BackupPictures/2019-05/DSC_0395.MOV
+Files not moved ** G:/BackupPictures/2019-10/DSC_0173.MOV
+Files not moved ** G:/BackupPictures/2019-10/DSC_0241.MOV
+Files not moved ** G:/BackupPictures/2019-10/DSC_0474.MOV
+Files not moved ** G:/BackupPictures/2019-10/DSC_0475.MOV
+Files not moved ** G:/BackupPictures/2019-10/DSC_0715.MOV
+Files not moved ** G:/BackupPictures/2019-10/DSC_0775.MOV
+Files not moved ** G:/BackupPictures/2019-10/DSC_0830.MOV
+Files not moved ** G:/BackupPictures/2019-10/DSC_0831.MOV
+Files not moved ** G:/BackupPictures/2019-11/DSC_0089.MOV
+Files not moved ** G:/BackupPictures/2019-12/DSC_0040.MOV
+Files not moved ** G:/BackupPictures/2019-12/DSC_0041.MOV
+Files not moved ** G:/BackupPictures/2020-02/DSC_0089.MOV
+Files not moved ** G:/BackupPictures/2020-02/DSC_0117.MOV
+Files not moved ** G:/BackupPictures/2020-02/DSC_0118.MOV
+Files not moved ** G:/BackupPictures/2020-02/DSC_0119.MOV
+Files not moved ** G:/BackupPictures/2020-02/DSC_0120.MOV
+Files not moved ** G:/BackupPictures/2020-09/DSC_0155.MOV
+Files not moved ** G:/BackupPictures/2020-09/DSC_0157.MOV
+Files not moved ** G:/BackupPictures/2020-09/DSC_0156.MOV
