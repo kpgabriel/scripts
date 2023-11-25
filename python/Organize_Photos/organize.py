@@ -3,6 +3,9 @@ import shutil
 import glob
 from PIL import Image
 from PIL.ExifTags import TAGS, GPSTAGS
+from exiftool import ExifToolHelper
+from datetime import datetime
+
 
 
 
@@ -26,7 +29,7 @@ def getMonth(month):
 
 def checkPath(path):
     # If it does not exist
-    if os.path.exists(path) == False:
+    if not os.path.exists(path):
         os.makedirs(path)
     # If it exists
     else:
@@ -35,42 +38,64 @@ def checkPath(path):
 
 def main():
     # Open a file
-    path = r"G:\\"
-
-
-    
-    rootdir = 'G:\\'
+    rootdir = 'D:\\PUT_NEW_IMAGES_HERE'
     for subdir, dirs, files in os.walk(rootdir):
         for file in files:
             if os.path.isfile(os.path.join(subdir, file)):
                 # print(os.path.join(subdir, file))
                 try:
                     exif = {}
-                    image_path = os.path.join(subdir, file)
-                    image = Image.open(image_path)
+                    extension = file.split('.')[1]
+                    file_path = os.path.join(subdir, file)
                     
-                    for tag, value in image.getexif().items():
-                        if tag in TAGS:
-                            exif[TAGS[tag]] = value
-                    image_date_time = exif['DateTime']
-                    image.close()
-                    year = image_date_time.split(":")[0]
-                    month = getMonth(image_date_time.split(":")[1])
-                    image_split_path = image_path.split('\\')
-                    image_name = image_split_path[len(image_split_path) - 1]
-                    # print(year, month, image_name)
-                
-                    directory = '{}{}\\{}'.format('E:\\',year,month)
-                    # print(directory)
-                    checkPath(directory)
-                    original = '{}'.format(image_path)
-                    # print(original)
-                    target = '{}\\{}'.format(directory,image_name)
-                    # print(target)
+                    if extension.upper() not in ['JPG','PNG','WEBP']:
+                        with ExifToolHelper() as et:
+                            for d in et.get_metadata(file_path):
+                                image_date_time = d['File:FileModifyDate']
+                                year = image_date_time.split(":")[0]
+                                month = getMonth(image_date_time.split(":")[1])
+                                image_name = d['File:FileName']
+                                directory = '{}{}\\{}'.format('D:\\Video\\',year,month)
+                                # print(directory)
+                                checkPath(directory)
+                                original = '{}'.format(d["SourceFile"])
+                                # print(original)
+                                target = '{}\\{}'.format(directory,image_name)
+                                # print(target)
+                                shutil.move(original, target)
+                    
+                    else:
+                        image = Image.open(file_path)
+                        # print(image.getexif().items())
+                        
+                        for tag, value in image.getexif().items():
+                            if tag in TAGS:
+                                exif[TAGS[tag]] = value 
+                        if 'DateTime' in exif:
+                            image_date_time = exif['DateTime']
+                        else:
+                            creation_time = os.path.getctime(file_path)
+                            image_date_time = datetime.fromtimestamp(creation_time).strftime('%Y:%m:%d %H:%M:%S')
 
-                    shutil.copy(original, target)
+                        image.close()
+                        year = image_date_time.split(":")[0]
+                        month = getMonth(image_date_time.split(":")[1])
+                        image_split_path = file_path.split('\\')
+                        image_name = image_split_path[len(image_split_path) - 1]
+                        
+                    
+                        directory = '{}{}\\{}'.format('D:\\Photos\\',year,month)
+                        
+                        checkPath(directory)
+                        original = f'{file_path}'
+                        
+                        target = f'{directory}\\{image_name}'
+                        
+                        
+                        shutil.move(original, target)
+                        
                 except Exception as e:
-                    print(f"Error: {e} for object {image_path}");
+                    print(f"Error: {e} for object {file_path}");
                     # pass
                     
 
