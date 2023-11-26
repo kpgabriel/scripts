@@ -29,7 +29,6 @@ glob('D:/Photos/**/*.+(png|jpg|JPG|PNG|jpeg|JPEG)', {}, async (er, files) => {
 		// console.log(newFileName)
 		try {
 			if (!fs.existsSync(`${newFileName}.webp`)) {
-				console.log('file not exist ', newFileName);
 				fs.mkdirSync(newFilePath, { recursive: true });
 				await sharp(element)
 					.withMetadata()
