@@ -38,7 +38,8 @@ def checkPath(path):
 
 def main():
     # Open a file
-    rootdir = 'D:\\PUT_NEW_IMAGES_HERE'
+    print('Organizing photos...')
+    rootdir = 'D:\\PUT_NEW_MEDIA_HERE'
     for subdir, dirs, files in os.walk(rootdir):
         for file in files:
             if os.path.isfile(os.path.join(subdir, file)):
@@ -93,10 +94,10 @@ def main():
                         
                         
                         shutil.move(original, target)
-                        
                 except Exception as e:
                     print(f"Error: {e} for object {file_path}");
                     # pass
+    print('Done organizing photos...')
                     
 
    
